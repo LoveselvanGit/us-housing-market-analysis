@@ -44,7 +44,7 @@ This project focuses on analyzing the **U.S. housing market data** to uncover tr
 ---
 
 How to Run the Notebook
-git clone https://github.com/yourusername/us-housing-market-analysis.git
+git clone https://github.com/LoveselvanGit/us-housing-market-analysis.git
 cd us-housing-market-analysis
 jupyter notebook notebooks/DSC630_WEEK10_MAHALINGAM.ipynb
 Run the Notebook Cells to execute the analysis and visualize the results.
